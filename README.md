@@ -4,7 +4,7 @@ Yuhang Lu, YouchuanWan, Gang Li. [Scale-constrained Unsupervised Evaluation Meth
 
 ### Dependency:
 - Visual Studio 2013
-- OpenCV 2.4
+- OpenCV 2.4.9
 
 ### Description:
 - To evaluate the quality of image segmentation, just specify the "srcImg" and "segImg" in SegEvaluation/SegEvaluation.cpp.
